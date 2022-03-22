@@ -9,7 +9,7 @@
 
   ***
 
-  ## Availability
+## Availability
 
 | Name/Day |  Monday   |  Tuesday   | Wednesday  |  Thursday  |  Friday   | Saturday  |
 | -------- | :-------: | :--------: | :--------: | :--------: | :-------: | :-------: |
