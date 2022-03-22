@@ -1,7 +1,3 @@
-
-
-
-
 <!-- describe your project -->
 
 ## Getting Started
