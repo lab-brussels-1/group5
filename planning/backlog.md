@@ -2,7 +2,7 @@
 
 ## Must Haves
 
--**Home Page**
+- **Home Page**
 
 - As an I can read the title of the page.
 
@@ -22,7 +22,7 @@
 
 will complete the enjoyer experience, but are not necessary
 
-- **home Page**
+- **Home Page**
 
 - As an enjoyer I can navigate the web page from a navbar
 
