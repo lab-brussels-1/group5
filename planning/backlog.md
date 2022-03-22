@@ -22,7 +22,7 @@
 
 will complete the enjoyer experience, but are not necessary
 
-**home Page**
+- **home Page**
 
 - As an enjoyer I can navigate the web page from a navbar
 
@@ -35,7 +35,7 @@ will complete the enjoyer experience, but are not necessary
 
 would be really cool ... if there's time
 
-**Home Page\_**
+- **Home Page**
 
 - as an enjoyer will smile (or roll their eyes)
 
