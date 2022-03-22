@@ -1,6 +1,8 @@
-# Must Haves
+# Backlog
 
-## Home Page
+## Must Haves
+
+-**Home Page**
 
 - As an I can read the title of the page.
 
@@ -20,7 +22,7 @@
 
 will complete the enjoyer experience, but are not necessary
 
-## main Page
+**home Page**
 
 - As an enjoyer I can navigate the web page from a navbar
 
@@ -33,7 +35,7 @@ will complete the enjoyer experience, but are not necessary
 
 would be really cool ... if there's time
 
-## master Page
+**Home Page\_**
 
 - as an enjoyer will smile (or roll their eyes)
 
