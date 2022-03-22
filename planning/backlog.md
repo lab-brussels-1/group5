@@ -20,7 +20,7 @@
 
 will complete the enjoyer experience, but are not necessary
 
-### Home Page
+## main Page
 
 - As an enjoyer I can navigate the web page from a navbar
 
@@ -33,7 +33,7 @@ will complete the enjoyer experience, but are not necessary
 
 would be really cool ... if there's time
 
-## Home Page
+## master Page
 
 - as an enjoyer will smile (or roll their eyes)
 
