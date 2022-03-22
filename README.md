@@ -4,6 +4,14 @@ This project is to rebuild the All About Trees site in a new repository as a gro
 
 Our main focus is the steps in Planning and Collaborating, Git/GitHub workflows, and code review using a checklist.
 
+
+Team members:
+* [Swapna chemboth](https://github.com/SWAPNACHEMBOTH)
+* [andriivam](https://github.com/andriivam)
+* [MahaLubbad](https://github.com/MahaLubbad)
+* [hadoan149](https://github.com/lab-brussels-1/home/blob/main/student-bios/hadoan149.md)
+* [EliasMlopez99](https://github.com/lab-brussels-1/home/blob/main/student-bios/EliasMlopez99.md)
+
 <img src="https://www.naept.com/wp-content/uploads/2020/08/tree.jpg" width="1000" height="300" />
 
 
