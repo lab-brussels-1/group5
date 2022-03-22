@@ -16,11 +16,11 @@
 - As an enjoyer I can learn even more about trees there is an aside with links
   for further reading
 
-# Should Haves
+## Should Haves
 
 will complete the enjoyer experience, but are not necessary
 
-## Home Page
+### Home Page
 
 - As an enjoyer I can navigate the web page from a navbar
 
@@ -29,7 +29,7 @@ will complete the enjoyer experience, but are not necessary
 - As an enjoyer I can contact us to learn more about our project there is a
   footer with contact info
 
-# Could Haves
+## Could Haves
 
 would be really cool ... if there's time
 
