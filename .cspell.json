@@ -1,6 +1,15 @@
 {
   "language": "en",
-  "words": ["Wireframes", "Wireframe", "socio", "Andrii","hadoan", "Maha", " Swapna", "X"],
+  "words": [
+    "Wireframes",
+    "Wireframe",
+    "socio",
+    "Andrii",
+    "hadoan",
+    "Maha",
+    " Swapna",
+    "X"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
