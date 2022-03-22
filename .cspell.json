@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Wireframes", "Wireframe", "socio"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
