@@ -2,7 +2,7 @@
 
 ## Home Page
 
-- As an enjoyer I can read the title of the page.
+- As an I can read the title of the page.
 
       There is a prominent title at the top of the web page
 
