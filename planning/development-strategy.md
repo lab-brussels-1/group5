@@ -79,7 +79,7 @@ There should be an image of trees.
 
 ### Images: HTML
 
-- > A div with an image of a happy tree
+- > A div with an image of a happy trees
 
 ### Images: CSS
 
