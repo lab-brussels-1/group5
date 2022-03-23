@@ -1,9 +1,10 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["socio", "X"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
+    "socio",
     "package-lock.json",
     "**/*.mp4",
     "**/*.svg",
