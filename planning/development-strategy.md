@@ -15,6 +15,8 @@ A simple little website about trees. How they can make our life better.
 
 ## Title
 
+---
+
 ### Title: HTML
 
 - Header with the web site's title
@@ -42,8 +44,6 @@ web page.
 ### Introduction: CSS
 
 - styling to make the content look good
-
----
 
 ## Images
 

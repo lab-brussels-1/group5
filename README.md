@@ -1,13 +1,17 @@
 # All About Trees
 
-![tree](assets/tree.jpg) This project is to rebuild the All About Trees site in
-a new repository as a group, by using many of the planning documents (which are
-already started)as a starting point.
+<<<<<<< HEAD ![tree](assets/tree.jpg) This project is to rebuild the All About
+Trees site in a new repository as a group, by using many of the planning
+documents (which are already started)as a starting point. ======= This project
+is to rebuild the All About Trees site in a new repository as a group, by using
+many of the planning documents (which are already started)as a starting point.
+
+> > > > > > > 080436033047910811f395ece1acd9081653fe5b
 
 Our main focus is the steps in Planning and Collaborating, Git/GitHub workflows,
 and code review using a checklist.
 
-Team members:
+Team members: <<<<<<< HEAD
 
 - [Swapna chemboth](https://github.com/SWAPNACHEMBOTH)
 - [andriivam](https://github.com/andriivam)
@@ -17,9 +21,13 @@ Team members:
 
 ![trees](assets/trees.jpg)
 
-## Getting Started
+- [Swapna chemboth](https://github.com/SWAPNACHEMBOTH)
+- [andriivam](https://github.com/andriivam)
+- [MahaLubbad](https://github.com/MahaLubbad)
+- [hadoan149](https://github.com/lab-brussels-1/home/blob/main/student-bios/hadoan149.md)
+- [EliasMlopez99](https://github.com/lab-brussels-1/home/blob/main/student-bios/EliasMlopez99.md)
 
-<!-- a guide to using this repository -->
+## Getting Started
 
 1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
 2. `cd template-markdown`
