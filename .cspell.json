@@ -1,6 +1,19 @@
 {
   "language": "en",
+<<<<<<< HEAD
   "words": ["socio", "X"],
+=======
+  "words": [
+    "Wireframes",
+    "Wireframe",
+    "socio",
+    "Andrii",
+    "hadoan",
+    "Maha",
+    " Swapna",
+    "X"
+  ],
+>>>>>>> 99316854c39148ac21ebb70d164e12f19c3a7d7f
   "ignorePaths": [
     "node_modules/**",
     "package.json",
