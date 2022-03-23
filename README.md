@@ -1,8 +1,4 @@
-
-
-
-
-<!-- describe your project -->
+# Project Name
 
 ## Getting Started
 
