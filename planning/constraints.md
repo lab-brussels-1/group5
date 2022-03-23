@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 # Constraints
 
 Some boundaries around our project.
