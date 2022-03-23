@@ -9,7 +9,7 @@ Team members:
 * [Swapna chemboth](https://github.com/SWAPNACHEMBOTH)
 * [andriivam](https://github.com/andriivam)
 * [MahaLubbad](https://github.com/MahaLubbad)
-* [hadoan149](https://github.com/lab-brussels-1/home/blob/main/student-bios/hadoan149.md)
+* [hadoan149](https://github.com/hadoan149/HadoanHYF)
 * [EliasMlopez99](https://github.com/lab-brussels-1/home/blob/main/student-bios/EliasMlopez99.md)
 
 <img src="https://www.naept.com/wp-content/uploads/2020/08/tree.jpg" width="1000" height="300" />
