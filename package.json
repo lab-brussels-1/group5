@@ -5,7 +5,7 @@
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell  './**'",
+    "spell-check": "cspell  \"**\"",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc ./ ",
     "lint:css": "stylelint './**/*.css'",
@@ -18,6 +18,9 @@
     "@ls-lint/ls-lint": "^1.10.0",
     "accessibility-checker": "^3.1.10",
     "cspell": "^5.6.6",
+    "eslint": "^8.11.0",
+    "eslint-config-xo": "^0.40.0",
+    "eslint-plugin-react": "^7.29.4",
     "html-validate": "^6.6.0",
     "markdownlint-cli": "^0.31.1",
     "prettier": "^2.3.2",
