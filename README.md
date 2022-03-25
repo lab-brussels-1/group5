@@ -14,7 +14,6 @@ workflows, and code review_ using a checklist.
 - [MahaLubbad](https://github.com/MahaLubbad)
 - [hadoan149](https://github.com/hadoan149/HadoanHYF)
 - [EliasMlopez99](https://github.com/EliasMlopez99)
-- [MahaLubbad](https://github.com/MahaLubbad)
 
 ![trees](assets/trees.jpg)
 
