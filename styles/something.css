@@ -20,6 +20,22 @@ body {
   animation: bounce 1s;
 }
 
+/* aside styling */
+
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
+/* footer styling */
 .footer-style {
   position: fixed;
   left: 0;
@@ -28,6 +44,11 @@ body {
   background-color: rgba(200, 231, 23, 0.685);
   text-align: center;
 }
+
 .fascinating-words {
   font-family: fantasy;
+}
+
+.interesting-things {
+  list-style-type: square;
 }
