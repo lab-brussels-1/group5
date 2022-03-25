@@ -14,4 +14,4 @@ trees"
 
 This is our wireframe currently if changes are required they will be done
 
-![wireframe](../assets/first%20sketch.png)
+![wireframe]('/../../assets/second%20sketch.png)
