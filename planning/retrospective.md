@@ -48,7 +48,7 @@
   certain information or base his/her work can be very useful
 - Took lot of help from teammates. Also taking time to understand.
 
-# The Course
+## The Course
 
 ## What can there be more of?
 
